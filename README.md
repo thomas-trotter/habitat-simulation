@@ -16,7 +16,7 @@ This repository is a **JavaFX application** initially developed as coursework at
 To install this project, follow these steps:
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Climber1705/habitat-simulation.git
+   git clone https://github.com/thomas-trotter/habitat-simulation.git
    ```
 2. **Navigate to the project directory:**
    ```bash
